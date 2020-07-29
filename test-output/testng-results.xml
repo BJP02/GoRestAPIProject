@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12176" started-at="2020-07-28T15:04:21Z" finished-at="2020-07-28T15:04:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12176" started-at="2020-07-28T15:04:21Z" finished-at="2020-07-28T15:04:33Z">
+      <class name="com.api.gorest.test.CreateUsersTest">
+        <test-method status="PASS" signature="createUsersAPIPOSTTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.api.gorest.test.CreateUsersTest@38102d01]" name="createUsersAPIPOSTTest" duration-ms="3639" started-at="2020-07-28T15:04:22Z" data-provider="getUserData" finished-at="2020-07-28T15:04:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Brahma]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[02-Jan-1978]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[b1@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1.23456789E9]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.abc.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Ontario]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUsersAPIPOSTTest -->
+        <test-method status="PASS" signature="createUsersAPIPOSTTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.api.gorest.test.CreateUsersTest@38102d01]" name="createUsersAPIPOSTTest" duration-ms="1731" started-at="2020-07-28T15:04:25Z" data-provider="getUserData" finished-at="2020-07-28T15:04:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vishnu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[02-Feb-1979]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[v1@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9.879654321E9]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.def.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Mississuaga]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUsersAPIPOSTTest -->
+        <test-method status="PASS" signature="createUsersAPIPOSTTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.api.gorest.test.CreateUsersTest@38102d01]" name="createUsersAPIPOSTTest" duration-ms="2323" started-at="2020-07-28T15:04:27Z" data-provider="getUserData" finished-at="2020-07-28T15:04:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mahesh ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[03-Mar-1980]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[m1@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[7.865436789E9]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.ghi.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Monteral]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUsersAPIPOSTTest -->
+        <test-method status="PASS" signature="createUsersAPIPOSTTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.api.gorest.test.CreateUsersTest@38102d01]" name="createUsersAPIPOSTTest" duration-ms="1869" started-at="2020-07-28T15:04:29Z" data-provider="getUserData" finished-at="2020-07-28T15:04:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ganesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[04-Apr-1981]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[g1@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9.876543234E9]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.jkl.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Qubec]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[inactive]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUsersAPIPOSTTest -->
+        <test-method status="PASS" signature="createUsersAPIPOSTTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.api.gorest.test.CreateUsersTest@38102d01]" name="createUsersAPIPOSTTest" duration-ms="1788" started-at="2020-07-28T15:04:31Z" data-provider="getUserData" finished-at="2020-07-28T15:04:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Krishna]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[05-May-1982]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[k1@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[7.654678987E9]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.mno.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Brampton]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUsersAPIPOSTTest -->
+      </class> <!-- com.api.gorest.test.CreateUsersTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
